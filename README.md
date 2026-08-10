@@ -417,7 +417,11 @@ Hospital availability and doctor information should be verified with the respect
 
 ## License
 
-**[ADD LICENSE INFORMATION HERE]**
+This project is licensed under the MIT License.
+
+Copyright (c) 2026 TEAM VIOLET
+
+See the [LICENSE](LICENSE) file for the full license text.
 
 ---
 
