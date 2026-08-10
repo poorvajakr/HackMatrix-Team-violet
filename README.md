@@ -223,13 +223,6 @@ This architecture allows MedSync to move toward real-time availability informati
 
 ---
 
-## Live Demonstration
-
-**Live Demonstration:** [ADD LIVE DEMONSTRATION LINK HERE]
-
-**Web Portal:** [ADD DEPLOYED WEB PORTAL LINK HERE]
-
-**Mobile Application Demonstration:** [ADD MOBILE DEMO VIDEO/LINK HERE]
 
 ---
 
@@ -346,7 +339,6 @@ The required Firebase services include:
 * Firebase Hosting
 * Firebase Security Rules
 
-**Firebase configuration:** [ADD CONFIGURATION INSTRUCTIONS / ENVIRONMENT VARIABLES HERE]
 
 ---
 
