@@ -423,6 +423,6 @@ See the [LICENSE](LICENSE) file for the full license text.
 
 **Repository:** https://github.com/poorvajakr/HackMatrix-Team-violet
 
-**Live Demonstration:** [ADD LIVE DEMONSTRATION LINK HERE]
+**Live Demonstration:** https://drive.google.com/drive/folders/1hw63l9_Unqzxhn9S7oMHForVF6bGhg7W?usp=drive_link
 
-**Contact Email:** [ADD CONTACT EMAIL HERE]
+**Contact Email:** poorvajakr@gmail.com
