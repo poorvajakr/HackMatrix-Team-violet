@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120492227199",
+    "project_id": "medsync-c6d7e",
+    "storage_bucket": "medsync-c6d7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120492227199:android:43d59f50af331953e41d4a",
+        "android_client_info": {
+          "package_name": "com.example.medsyncc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU123ps4kOutLAaGunDhFJyt4yglB9AK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
